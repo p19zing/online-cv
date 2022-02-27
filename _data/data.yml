@@ -31,10 +31,10 @@ sidebar:
       - item: Reddit
         link:
 
-education:
-    - degree: Undergradute Informatics student 
-      university: Ionian University
-      time: 2019 -
+    education:
+        - degree: Undergradute Informatics student 
+          university: Ionian University
+          time: 2019 -
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -44,18 +44,18 @@ education:
           - Bullet point
           - Bullet point
 
-skills:
-    title: Ικανότητες &amp; Επίπεδο
+    skills:
+        title: Ικανότητες &amp; Επίπεδο
 
-    toolset:
-      - name: Python
-        level: 50%
+        toolset:
+          - name: Python
+            level: 50%
 
-      - name: SQL
-        level: 40%
+          - name: SQL
+            level: 40%
 
-      - name: HTML5 & CSS
-        level: 30%
+          - name: HTML5 & CSS
+            level: 30%
 
-      - name: Java
-        level: 30%
+          - name: Java
+            level: 30%
